@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaatm
 - 👀 I’m interested in photography, music and everything that has to do with tech.
-- 🌱 I’m currently learning SwiftUI and soon Java.
+- 🌱 I’m currently learning SwiftUI but also C# and other.
 - 📫 How to reach me: Via Instagram "lucaatm_"
 
 <!---
